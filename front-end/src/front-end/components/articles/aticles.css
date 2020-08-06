@@ -1,0 +1,40 @@
+
+.ui.raised.segment{
+    cursor: pointer;
+    white-space: nowrap;
+    margin-left: 0;
+    margin-right: 0;
+zoom: 80%;
+
+}
+.xa{
+    zoom: 75%;
+}
+.x{
+    zoom: 95%!important;
+}
+.az{
+  font-size: 50px !important;
+  margin-left: 70px !important;
+  color:white;
+
+}
+
+.route{
+    margin-top: 10px;
+    margin-left: 45%;
+}
+  .aze{
+      width: 100% !important;
+      margin-left: -200px;
+      
+  }
+  
+  .im:hover{
+      zoom:150%;
+  }
+  
+  
+  
+  
+  

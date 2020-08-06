@@ -1,0 +1,37 @@
+
+.ui.raised.segment{
+    cursor: pointer;
+    white-space: nowrap;
+    margin-left: 0;
+    margin-right: 0;
+zoom: 80%;
+
+}
+.x{
+    zoom: 80%;
+}
+ .cart{
+     height: 280px;
+ }
+ .ui.inverted.segment, .ui.primary.inverted.segment {
+   background-color:balck!important;
+    color: rgba(255, 255, 255, 0.9);
+    padding: 4px;
+}
+  .articles-galerie{
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+  }
+  
+  .img2{
+      width: 100px !important;
+  }
+  img.img3{
+    width:80px !important;
+    height:80px !important;
+
+
+ 
+  }
+  

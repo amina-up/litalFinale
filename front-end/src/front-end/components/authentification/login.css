@@ -1,0 +1,12 @@
+.background-login{
+    background: url(../images/background.png);
+    background-size: contain;
+   
+  }
+  .Grid > .Grid.Column > .Header{
+    color:white !important;
+  }
+  .header-login{
+    text-shadow:#d67c1c 1px 1px;
+
+}
